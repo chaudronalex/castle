@@ -1,3 +1,5 @@
+Note for the project : after scraping both sites, it returns the list of hotels with a stared restaurant, and their prices for a defined week-end. It takes a few moments before printing to scrape everything. 
+
 # Castle
 
 > Sleep well with Relais & Châteaux
